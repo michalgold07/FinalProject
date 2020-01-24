@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+
+    <!--Platform-->
+
+    <PlatformName>web</PlatformName>
+
+    <!--Web-->
+
+    <BrowserName>Chrome</BrowserName>
+    <url>https://opensource-demo.orangehrmlive.com</url>
+    <ImageRepo>./ImageRepository/</ImageRepo>
+
+    <!--Mobile-->
+    <UDID>56ed61e1</UDID>
+    <APP_PACKAGE>com.splendapps.splendo</APP_PACKAGE>
+    <APP_ACTIVITY>.MainActivity</APP_ACTIVITY>
+
+
+</Environment>
